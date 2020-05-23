@@ -1,0 +1,2 @@
+# General
+The repository is aiming at showing the basic usage of Web-API, Event-API and Slash command for specified use cases for slack bot. It does not contain the the set up for the slack bot and github app. The pre-condition of the scripts is the slack bot and github app is properly created. The corresponding scope can be found in the file with right name.
